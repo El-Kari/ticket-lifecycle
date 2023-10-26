@@ -52,6 +52,6 @@ Correspondence with all the agents showing how they solve the ticket.
 <img src="https://i.imgur.com/fG8LoPj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-All the open tickets and the priorities.
+All the open tickets and the respective priorities.
 </p>
 <br />
